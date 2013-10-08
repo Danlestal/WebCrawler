@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrawler", "WebCrawler\WebCrawler.csproj", "{84A92E44-12FE-40D6-8216-9FE763F20B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrawlerTest", "WebCrawlerTest\WebCrawlerTest.csproj", "{88053B0B-AA1C-4734-A1B7-EB38A80B3771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManager", "ImageManager\ImageManager.csproj", "{7077D0F1-D826-48C9-828E-8B5C8688C82E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManagerTest", "ImageManagerTest\ImageManagerTest.csproj", "{CE392D82-80A1-4C29-9160-FC6907A7C317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84A92E44-12FE-40D6-8216-9FE763F20B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A92E44-12FE-40D6-8216-9FE763F20B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A92E44-12FE-40D6-8216-9FE763F20B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A92E44-12FE-40D6-8216-9FE763F20B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88053B0B-AA1C-4734-A1B7-EB38A80B3771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88053B0B-AA1C-4734-A1B7-EB38A80B3771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88053B0B-AA1C-4734-A1B7-EB38A80B3771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88053B0B-AA1C-4734-A1B7-EB38A80B3771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7077D0F1-D826-48C9-828E-8B5C8688C82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7077D0F1-D826-48C9-828E-8B5C8688C82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7077D0F1-D826-48C9-828E-8B5C8688C82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7077D0F1-D826-48C9-828E-8B5C8688C82E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE392D82-80A1-4C29-9160-FC6907A7C317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE392D82-80A1-4C29-9160-FC6907A7C317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE392D82-80A1-4C29-9160-FC6907A7C317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE392D82-80A1-4C29-9160-FC6907A7C317}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
